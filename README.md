@@ -1,6 +1,10 @@
-# react-native-metaphors
+# React Native Metaphors
 
-This repo is for maintaining my small codes for different features
+![react-native-banner-min](https://github.com/shuklaritvik06/react-native-metaphors/assets/72812470/7ddb7276-42e2-44c5-8b55-f11f493680fb)
+
+Welcome to the React Native Metaphors repository! This repository contains a collection of code snippets that serve as metaphorical examples to showcase various functionalities and innovative features in React Native applications. This README file provides an overview of the repository and guides you on how to explore and utilize the code snippets.
+
+## Some Included Features
 
 - [x] Firebase Email Authentication
 - [x] Firebase Phone Authentication
